@@ -1,3 +1,4 @@
 # this file specifies names or patterns of files to ignore
 *.dat
 results/
+!results/plots/
